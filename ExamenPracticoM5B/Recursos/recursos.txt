@@ -1,0 +1,6 @@
+
+INSERT INTO `cliente`(`apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('Argudo', 1,'Cuenca','11-03-200','Paul','Estudiante',100,'093025163');
+
+http://localhost:8080/swagger-ui/index.html#/cliente-rest-controller/readAll
+
+https://docs.google.com/document/d/1Ch0kb4EgHTlxNBuuFJwsncno1Y_v7E1c/edit?usp=sharing&ouid=109165259684415256332&rtpof=true&sd=true
